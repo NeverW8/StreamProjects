@@ -15,9 +15,15 @@ A list of things TBD
         * Camera server (NVR)
         * Grafana server
         * Home-dashboard for internal services
+        * PiHole
+        * Wireguard VPN
     * Gitlab instance
     * Proxmox instance
     * Automate it all with something + ansible
-
+    * Setup personal website
+    * Setup 'tools' github docs w/ code
+    * ~~Setup NVR camera server for testing before kube cluster~~
+    * Setup dotfiles github page
+    *
 Things are bound to change alot here....
 
